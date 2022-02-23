@@ -1,0 +1,33 @@
+{
+  "identifier" : "693259FE",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "22.99",
+      "familyShareable" : false,
+      "internalID" : "4DBE7D6F",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.technotwist.tarunaBirla.wallet",
+      "referenceName" : "wallet",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}

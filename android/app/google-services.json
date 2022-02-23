@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "753457259745",
+    "project_id": "tarunabirla-ef977",
+    "storage_bucket": "tarunabirla-ef977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753457259745:android:cbb659dbb56c36d5b7c3a0",
+        "android_client_info": {
+          "package_name": "com.cheftarunbirla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753457259745-c2tuof4neqovn7d652ug0ftv13kut15o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cheftarunbirla",
+            "certificate_hash": "e0f4d8bbac8868056a8bdcaaab0813c1b9dc2ca8"
+          }
+        },
+        {
+          "client_id": "753457259745-ee9prikm9em64q2c52b9p5dta1r3ckk4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cheftarunbirla",
+            "certificate_hash": "550641e5ee2479b9a60b7bb99d1d50082cc288b5"
+          }
+        },
+        {
+          "client_id": "753457259745-g905a8hej4d0jvgoadsh1almgo95nbee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBV0qQlbjCyFbLEsc2BicaHHXqoN6tCqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753457259745-g905a8hej4d0jvgoadsh1almgo95nbee.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "753457259745-1532eb3t4l6aj1dd7m1lrrn6vniiejam.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cheftarunabirla"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>753457259745-1532eb3t4l6aj1dd7m1lrrn6vniiejam.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.753457259745-1532eb3t4l6aj1dd7m1lrrn6vniiejam</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>753457259745-c2tuof4neqovn7d652ug0ftv13kut15o.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCOr63lzxZvW01qKwVZvjiFAlS7KFev3hQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>753457259745</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cheftarunabirla</string>
+	<key>PROJECT_ID</key>
+	<string>tarunabirla-ef977</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tarunabirla-ef977.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:753457259745:ios:bcc328ddc1ca788db7c3a0</string>
+</dict>
+</plist>
